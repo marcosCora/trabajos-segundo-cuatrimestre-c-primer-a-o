@@ -65,7 +65,7 @@ void leer(Pila *p)
 }
 
 ///recibe la pila y la muestra
-void mostrar(Pila p)
+void muestraPila(Pila p)
 {
     int i = 0;
     printf("BASE------------------------------------------TOPE\n");
@@ -77,7 +77,59 @@ void mostrar(Pila p)
     printf("\nBASE------------------------------------------TOPE\n");
 }
 
-///LIBRERIA PUNTO H
+///recibe una pila y cuenta cuantos elementos tiene cargados en ella
+
+int cuentaPila(Pila p)
+{
+    int cont = p.validos;
+
+    return cont;
+}
+
+///recibe dos punteros de dos pilas
+///mueve de una pila a otra
+
+void muevoPila(Pila *origen, Pila *destino)
+{
+    int i;
+
+    if(origen->validos > 0)
+    {
+        for(i = 0; i < origen->validos; i++)
+        {
+            destino->dato[destino->validos] = origen->dato[i];
+            destino->validos++;
+        }
+        origen->validos = 0;
+
+    }
+
+}
+
+///recibo dos pilas y una por puntero
+///copio los datos de origen a destino
+
+void copioPila(Pila origen, Pila *destino)
+{
+
+    int i;
+
+    if(origen.validos > 0)
+    {
+        for(i = 0; i < origen.validos; i++)
+        {
+            destino->dato[destino->validos] = origen.dato[i];
+            destino->validos++;
+        }
+
+    }
+
+}
+
+
+
+
+///LIBRERIA PUNTO H/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #ifndef PILA_H_INCLUDED
 #define PILA_H_INCLUDED
 
@@ -95,7 +147,11 @@ int desapilar(Pila *p);
 int tope(Pila p);
 int pilaVacia(Pila p);
 void leer(Pila *p);
-void mostrar(Pila p);
+void muestraPila(Pila p);
+int cuentaPila(Pila p);
+void muevoPila(Pila *origen, Pila *destino);
+void copioPila(Pila origen, Pila *destino);
+
 
 
 #endif // PILA_H_INCLUDED
