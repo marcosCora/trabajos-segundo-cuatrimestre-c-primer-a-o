@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1604500367 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ADL.h"
+	"listasRegistros.h"
+
+1604430013 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.1\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"listasRegistros.h"
+
+1604500238 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.1\adl.c
+	"ADL.h"
+	"listasRegistros.h"
+
+1604427829 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.1\listasregistros.c
+	"listasRegistros.h"
+
+1604416086 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.1\listasregistros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ADL.h"
+
