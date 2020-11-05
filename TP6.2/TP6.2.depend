@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1604603848 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"funcionesArch.h"
+	"arbol.h"
+
+1604517871 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.2\funcionesarch.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"arbol.h"
+
+1604517137 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.2\funcionesarch.c
+	"funcionesArch.h"
+
+1604528349 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"funcionesArch.h"
+
+1604528349 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\tp6.2\arbol.c
+	"arbol.h"
+
