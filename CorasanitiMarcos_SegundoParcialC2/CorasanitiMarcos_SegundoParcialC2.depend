@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1605275401 source:d:\mis documentos\escritorio\corasanitimarcos_segundoparcialc2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<conio.h>
+	"registroArchivo.h"
+	"adl.h"
+
+1605174194 d:\mis documentos\escritorio\corasanitimarcos_segundoparcialc2\registroarchivo.h
+	<stdlib.h>
+	<stdio.h>
+
+1605174198 source:d:\mis documentos\escritorio\corasanitimarcos_segundoparcialc2\registroarchivo.c
+	"registroArchivo.h"
+
+1605276444 source:d:\mis documentos\escritorio\corasanitimarcos_segundoparcialc2\adl.c
+	"adl.h"
+
+1605276023 d:\mis documentos\escritorio\corasanitimarcos_segundoparcialc2\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<conio.h>
+	"registroArchivo.h"
+
+1605534456 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\corasanitimarcos_segundoparcialc2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<conio.h>
+	"registroArchivo.h"
+	"adl.h"
+
+1605174194 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\corasanitimarcos_segundoparcialc2\registroarchivo.h
+	<stdlib.h>
+	<stdio.h>
+
+1605534094 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\corasanitimarcos_segundoparcialc2\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<conio.h>
+	"registroArchivo.h"
+
+1605174198 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\corasanitimarcos_segundoparcialc2\registroarchivo.c
+	"registroArchivo.h"
+
+1605534666 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\corasanitimarcos_segundoparcialc2\adl.c
+	"adl.h"
+
