@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597331979 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\repaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
