@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1601642303 source:d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\fila.c
+	"fila.h"
+
+1601642267 d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"listaDoble.h"
+	"persona.h"
+
+1601642181 d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\listadoble.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"persona.h"
+
+1601643515 d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\persona.h
+
+1601642791 source:d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\listadoble.c
+	"listaDoble.h"
+
+1601646644 source:d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"persona.h"
+	"listaEmpleados.h"
+	"listaDoble.h"
+	"fila.h"
+
+1601643131 d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\listaempleados.h
+	"persona.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1601640818 source:d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1601643131 source:d:\mis documentos\escritorio\corasanitimarcos_primerparcialc2\listaempleados.c
+	"listaEmpleados.h"
+
