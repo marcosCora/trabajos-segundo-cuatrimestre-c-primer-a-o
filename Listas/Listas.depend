@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1601554580 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\empleados.c
+	"empleados.h"
+
+1601554624 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\empleados.h
+	<stdio.h>
+	<conio.h>
+
+1602269354 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\listaempleados.c
+	"listaEmpleados.h"
+
+1602269354 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\listaempleados.h
+	"empleados.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1601411072 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\pilalista.c
+	"pilaLista.h"
+
+1601411072 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\pilalista.h
+	"listaEmpleados.h"
+
+1601416586 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\fila.c
+	"fila.h"
+
+1601416586 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"listaDoble.h"
+	"empleados.h"
+
+1601601758 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\listadoble.h
+	"empleados.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1603718400 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"listaEmpleados.h"
+	"empleados.h"
+	"pilaLista.h"
+	"listaDoble.h"
+	"fila.h"
+	"arbol.h"
+
+1601601758 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\listadoble.c
+	"listaDoble.h"
+
+1603718400 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\aux1.c
+	"aux1.h"
+
+1603718400 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\aux1.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"listaEmpleados.h"
+	"empleados.h"
+	"pilaLista.h"
+	"listaDoble.h"
+	"fila.h"
+	"arbol.h"
+
+1603718400 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\arbol.c
+	"arbol.h"
+
+1603718400 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas\arbol.h
+	"empleados.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1604325882 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\arbol.c
+	"arbol.h"
+
+1604325833 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\arbol.h
+	"empleados.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1601554624 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\empleados.h
+	<stdio.h>
+	<conio.h>
+
+1604325743 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\aux1.c
+	"aux1.h"
+
+1604325743 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\aux1.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"listaEmpleados.h"
+	"empleados.h"
+	"pilaLista.h"
+	"listaDoble.h"
+	"fila.h"
+	"arbol.h"
+
+1602269354 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\listaempleados.h
+	"empleados.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1601411072 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\pilalista.h
+	"listaEmpleados.h"
+
+1601601758 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\listadoble.h
+	"empleados.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1601416586 d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"listaDoble.h"
+	"empleados.h"
+
+1601554580 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\empleados.c
+	"empleados.h"
+
+1601416586 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\fila.c
+	"fila.h"
+
+1601601758 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\listadoble.c
+	"listaDoble.h"
+
+1602269354 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\listaempleados.c
+	"listaEmpleados.h"
+
+1601411072 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\pilalista.c
+	"pilaLista.h"
+
+1604325846 source:d:\mis documentos\escritorio\facultad\laboratorio y programacion  2\tp's\listas++\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"listaEmpleados.h"
+	"empleados.h"
+	"pilaLista.h"
+	"listaDoble.h"
+	"fila.h"
+	"arbol.h"
+
